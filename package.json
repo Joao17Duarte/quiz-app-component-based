@@ -23,17 +23,17 @@
     "*.html": "htmlhint"
   },
   "keywords": [],
-  "author": "Lene Frei",
+  "author": "Joao Duarte",
   "license": "ISC",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macfrei/quiz-app.git"
+    "url": "git+https://github.com/Joao17Duarte/quiz-app-component-based"
   },
   "bugs": {
-    "url": "https://github.com/macfrei/quiz-app/issues"
+    "url": "https://github.com/Joao17Duarte/quiz-app-component-based/issues"
   },
-  "homepage": "https://github.com/macfrei/quiz-app#readme",
+  "homepage": "https://github.com/Joao17Duarte/quiz-app-component-based#readme",
   "description": "",
   "devDependencies": {
     "@babel/core": "^7.12.10",
