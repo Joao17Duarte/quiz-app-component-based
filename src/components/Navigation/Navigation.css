@@ -7,7 +7,7 @@
 
 .Navigation__button {
   display: grid;
-  background: #eee;
+  background: #ddd;
   align-content: center;
   gap: 2px;
   grid-template-rows: 20px auto;
