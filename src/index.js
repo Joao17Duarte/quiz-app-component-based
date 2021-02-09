@@ -1,4 +1,4 @@
-import CreateForm from './components/CreateForm'
+import CreatePage from './components/CreatePage/CreatePage'
 import Header from './components/Header'
 import HomePage from './components/HomePage/HomePage'
 import Navigation from './components/Navigation/Navigation'
@@ -12,13 +12,7 @@ const navigation = Navigation(onNavigate)
 
 const homePage = HomePage()
 
-const form = CreateForm(onSubmit)
-
-const createPage = createElement(
-  'main',
-  { className: 'CreatePage', hidden: true },
-  form
-)
+const createPage = CreatePage(onSubmit)
 
 const grid = createElement(
   'div',
